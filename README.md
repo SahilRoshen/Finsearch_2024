@@ -1,2 +1,1 @@
-# Finsearch_2024
-### Credit Score Modeling Algorithm
+# Credit Score Modeling Algorithm
